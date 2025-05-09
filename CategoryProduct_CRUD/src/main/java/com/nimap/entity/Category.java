@@ -1,4 +1,3 @@
-// src/main/java/com/nimap/entity/Category.java
 package com.nimap.entity;
 
 
