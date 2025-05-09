@@ -1,4 +1,3 @@
-// src/main/java/com/nimap/exception/GlobalExceptionHandler.java
 package com.nimap.exception;
 
 import org.springframework.http.HttpStatus;
