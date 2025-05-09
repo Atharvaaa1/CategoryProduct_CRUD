@@ -1,4 +1,3 @@
-// src/main/java/com/nimap/controller/CategoryController.java
 package com.nimap.controller;
 
 import com.nimap.entity.Category;
