@@ -1,4 +1,3 @@
-// src/main/java/com/nimap/controller/ProductController.java
 package com.nimap.controller;
 
 import com.nimap.entity.Product;
