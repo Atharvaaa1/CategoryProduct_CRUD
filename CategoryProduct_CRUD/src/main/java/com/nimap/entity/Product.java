@@ -1,4 +1,3 @@
-// src/main/java/com/nimap/entity/Product.java
 package com.nimap.entity;
 
 import jakarta.persistence.Entity;
