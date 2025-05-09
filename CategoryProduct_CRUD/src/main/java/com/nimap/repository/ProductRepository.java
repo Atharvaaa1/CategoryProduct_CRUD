@@ -1,4 +1,3 @@
-// src/main/java/com/nimap/repository/ProductRepository.java
 package com.nimap.repository;
 
 import com.nimap.entity.Product;
